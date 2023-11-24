@@ -479,7 +479,7 @@ main {
     color: white;
   }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
   .logo {
     width: 70px;
   }
@@ -766,7 +766,7 @@ main {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
   .left-content-con-2 {
     width: 300px;
     height: 300px;
@@ -992,7 +992,7 @@ main {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
   .cards-1-con-3 {
     padding: 0 10px;
   }
@@ -1208,7 +1208,7 @@ main {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
   .cards-con-4 {
     height: 25vh;
     border-radius: 40px;
@@ -1465,7 +1465,7 @@ main {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
   .con-5 {
     padding-top: 0;
   }
@@ -1608,7 +1608,7 @@ button {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
   .con-6 {
     height: 80vh;
     padding-bottom: 0;
