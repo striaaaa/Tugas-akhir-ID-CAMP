@@ -172,6 +172,9 @@ main {
   margin-left: 20px;
 }
 
+.loc i {
+  display: none;
+}
 .right-content {
   background-image: url(assets/Rectangle\ 4.png);
   width: 524px;
@@ -1157,15 +1160,6 @@ main {
     justify-content: flex-start;
     animation: gerak 5s linear infinite;
   }
-
-  @keyframes gerak {
-    0% {
-      left: 100%; /* Mulai dari posisi kanan layar */
-    }
-    100% {
-      left: -50px; /* Berakhir di luar layar sebelah kiri */
-    }
-  }
 }
 
 @media screen and (max-width: 620px) {
@@ -1225,16 +1219,6 @@ main {
   .container-img-4 {
     margin-top: 0;
     position: relative;
-    animation: mymove 5s infinite;
-  }
-
-  @keyframes mymove {
-    from {
-      transform-x: 0%;
-    }
-    to {
-      transform-x: 100%;
-    }
   }
 }
 
